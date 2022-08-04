@@ -1,4 +1,6 @@
 let tasksList = ['Tomar café', 'Reunião', 'Brincar com o cachorro'];
 
-console.log(tasksList.length);
-// 3
+let indexOfTask = tasksList.indexOf('');
+console.log(indexOfTask);
+
+// 1
